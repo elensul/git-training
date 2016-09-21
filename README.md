@@ -4,6 +4,6 @@ git-training
 
 Primer cambio ej1
 
-Segundo cambio
+Segundo cambio ej1
 
 Tercer cambio
