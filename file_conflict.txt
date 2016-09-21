@@ -1,1 +1,6 @@
+
 Creado desde Eclipse
+
+Creado desde Github web interface
+
+Conflicto resuelto
